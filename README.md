@@ -1,1 +1,3 @@
-# Chath-GPT-API-Invoking-Python
+# Chat-GPT-API-Invoking-Python
+
+https://platform.openai.com/docs/api-reference/introduction
